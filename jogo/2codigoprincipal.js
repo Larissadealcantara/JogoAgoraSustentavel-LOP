@@ -459,7 +459,6 @@ function preload() {
   imagemLarissa = loadImage('./imagens/imagemLarissa.jpeg');
   imagemAna = loadImage('./imagens/imagemAnaaugusta.jpeg');
   imagemsetinha = loadImage('./imagens/imagemSeta.png');
-  imagemaspas = loadImage('./imagens/imagemaspas.png');
   imagemplay = loadImage('./imagens/imagemPlay.png');
   imagemcasa = loadImage('./imagens/imagemCasa.png');
   imagemb1 = loadImage('./imagens/imagemB1.png');
